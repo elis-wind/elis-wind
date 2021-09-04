@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @elis-wind
+- 👋 Hi, I’m Natalia
 - 👀 I’m interested in NLP, Data Science, Data Visualization and Machine Learning
 - 🌱 I’m currently finishing my PhD in linguistics & working in AI field (applied to text data)
 - 💞️ I’m looking to collaborate on NLP topics, data visualization & getting insights from data!
