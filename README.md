@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Natalia
 - 👀 I’m interested in NLP, Data Science, Data Visualization and Machine Learning
-- 🌱 I’m currently finishing my PhD in linguistics & working in AI field (applied to text data)
+- 🌱 I’m currently finishing my PhD in computational linguistics and I have worked in AI field (applied to text data)
 - 💞️ I’m looking to collaborate on NLP topics, data visualization & getting insights from data!
 - 📫 How to reach me: alicesfiend@gmail.com
 
